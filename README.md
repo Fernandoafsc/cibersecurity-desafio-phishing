@@ -2,14 +2,13 @@
 
 **AVISO LEGAL**: Este tutorial tem fins exclusivamente educacionais e de conscientização sobre segurança digital. O uso não autorizado desta técnica é crime. Execute apenas em ambientes controlados e com consentimento explícito.
 
-![Banner de segurança digital](image-banner.png)
 
 ## 📋 Pré-requisitos
 - [Kali Linux](https://www.kali.org/) (sistema operacional para testes de penetração)
 - **setoolkit** (pré-instalado no Kali Linux)
 - Máquina virtual (recomendado) com configuração de rede em **Modo Bridge**
 
-![Modo Bridge no VirtualBox](image-bridge.png)  
+### Modo Bridge no VirtualBox
 *(Exemplo: Configuração de rede > Modo Bridge no VirtualBox)*
 
 ---
