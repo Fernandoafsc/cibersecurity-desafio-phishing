@@ -16,7 +16,7 @@
 Phishing no Kali Linus:
 
 ### 1. Acesso root no modo administrados:
-```bash
+
 # abre o power shell e digite o comando
 sudo su 
 
