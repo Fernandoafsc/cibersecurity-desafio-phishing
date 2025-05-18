@@ -44,7 +44,7 @@ setoolkit
 ### 8. O program irá solicitar a URL que irá clonar.
 ![](image-1.png)
 
-### 9. Após adicionar o URL, clica no botão Enter. a configuração está feita, enviar para alguém o IP e aguarda que seja realizado o acesso na página e programa receber os dados de acesso. 
+### 9. Após adicionar o URL, clica no botão (Enter), a configuração está feita. Enviar para alguém o IP e aguarda que seja realizado o acesso na página e programa receber os dados de acesso. 
 
 
 ### Resultado
