@@ -29,7 +29,7 @@ setoolkit
 ![](image-6.png)
 
 ### 4. Continuando, selecione a opção "2" Web Site Attack Vectors.
-(image-3.png)
+![](image-3.png)
 
 ### 5. Continuando, selecione a opção "3" Credential Harvester Attack Method.
 ![](image-4.png)
